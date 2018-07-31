@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ClicktextVeiw</string>
+    <string name="textview">TextView</string>
 </resources>
